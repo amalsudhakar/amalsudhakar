@@ -1,5 +1,5 @@
 
-# 💫 Hi there 👋:
+# Hi there 👋:
 🌱 I'm currently learning django<br>📫 How to reach me : amalsudhakar52@gmail.com<br>⚡ Freelance graphic designer
 
 
